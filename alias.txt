@@ -1,0 +1,43 @@
+﻿Z '_Zoom
+ZE '_Zoom _Extents
+ZEA '_Zoom _All _Extents
+ZS '_Zoom _Selected
+ZSA '_Zoom _All _Selected
+S !_Scale
+O !_Offset
+P '_Plane
+M !_Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+C !_Copy
+W '_SelWindow
+COn '_CurvatureGraph
+COff '_CurvatureGraphOff
+PlugInManager ! _OptionsPage _PlugIns
+AdvancedDisplay ! _OptionsPage _DisplayModes
+DisplayAttrsMgr ! _OptionsPage _DisplayModes
+SelPolysurface '_SelPolysrf
+VS '_SetDisplayMode _M
+G noecho '_Gumball _T
+UH '_ShowSelected
+E !_Delete
+AA '_Area
+AR !_Array
+ARC !_ARC
+REC !_Rectangle
+D '_Distance
+X !_Explode
+J !_Join
+L !_Lines
+PL !_Polyline
+CC !_Circle
+GH !_Grasshopper
+GHR !_GrasshopperUnloadPlugin _Grasshopper
+R '_Rotate
+CL '_ChangeLayer
+CP '_CPlane
+MI !_mirror
+MA '_MatchProperties
+DA '_DimAligned
+EX '_Extend
